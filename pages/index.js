@@ -1,7 +1,7 @@
 import Head from "../components/head";
 import Nav from "../components/nav";
 
-export default () => {
+const Index = () => {
   return (
     <div>
       <Head title="Home" />
@@ -14,3 +14,5 @@ export default () => {
     </div>
   );
 };
+
+export default Index;
