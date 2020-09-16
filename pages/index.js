@@ -8,7 +8,7 @@ export default () => {
       <Nav />
       <div className="hero">
         <h1 style={{ textAlign: "center" }} className="title">
-          Welcome to Your new website
+          Welcome to your new Website,
         </h1>
       </div>
     </div>
